@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
+<p align="center"><img src="https://gpvc.arturio.dev/RekzDev" alt="Visitors"></a>
 
 ```
 Follow 74rekz on twitter
